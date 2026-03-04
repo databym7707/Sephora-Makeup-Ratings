@@ -32,4 +32,7 @@ The original datasat was cleaned & prepared for analysis by:
 
 Google Sheets .csv file uploaded.
 
+## SQL Analysis
+The full SQL queries used for analysis can be found in the ‘sephora_analysis.sql’ file in this repository.
+
 ---
